@@ -1,7 +1,7 @@
 {
   "name": "Potion_Network_bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Potionnetwork",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "potion_network.aternos.me",
     "port": 53528,
     "version": "",
-    "try-creative": false
+    "try-creative":true
   },
   "position": {
     "enabled": true,
@@ -34,6 +34,7 @@
         "I'm a regular player",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
+        "أنا رائع جدا"
       ]
     },
     "chat-log": true,
